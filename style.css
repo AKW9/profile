@@ -12,7 +12,10 @@ h1 {
 }
 
 body {
-  background-color: #507DBC;
+  background-image: url(../profile/images/pexels-philippe-donn-1169754.jpg);
+  background-repeat: no-repeat;
+  background-attachment: cover;
+  background-size: cover;
 }
 
 img {
@@ -35,7 +38,7 @@ p {
 }
 
 .container {
-  background-color: #507DBC;
+  background-color: rgba(0,0,0,0);
   border: 0px solid #507DBC;
   padding: 30px;
   width: 899px;
